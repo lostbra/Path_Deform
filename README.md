@@ -15,7 +15,7 @@ Process
 <img width="899" alt="5" src="https://user-images.githubusercontent.com/63625631/128614565-0ce4c645-5271-4e00-8f9b-915994b94ee6.png">
 <scatteralign>
 <img width="883" alt="6" src="https://user-images.githubusercontent.com/63625631/128615717-544ca373-9285-4cfe-9ba8-9a8095b93e84.png">
-<img width="850" alt="7" src="https://user-images.githubusercontent.com/63625631/128616163-42434d34-6083-4966-8a7a-b86ad4a8b336.png">
+
 <add Moss>
 <img width="850" alt="7" src="https://user-images.githubusercontent.com/63625631/128637445-4d9bc31a-3b17-45d2-8561-0777387cc69a.png">
 
